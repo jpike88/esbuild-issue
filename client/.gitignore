@@ -1,0 +1,4 @@
+src/components/**/*.js
+src/components/**/**/*.js
+src/components/**/*.map
+.angular-cache
